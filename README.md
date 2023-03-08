@@ -155,7 +155,7 @@ class CountingCharactersTest {
 
 Consider the following sample output:
 
-```plaintext
+```text
 Enter a sentence for me to count the characters:
 Flatiron School rules!
 Character : Number of times a character appeared
@@ -177,7 +177,7 @@ t : 1
 u : 1
 ```
 
-```plaintext
+```text
 Enter a sentence for me to count the characters:
 the quick brown fox jumps over the lazy dog
 Character : Number of times a character appeared
